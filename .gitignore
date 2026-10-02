@@ -1,0 +1,16 @@
+# Байт-код Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# Отчёты сканера (не заливаем в репозиторий)
+report_*.txt
+
+# Настройки IDE
+.vscode/
+.idea/
